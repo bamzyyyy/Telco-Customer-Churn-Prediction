@@ -183,11 +183,11 @@ Churn - Whether a customer will stop using the Telco's network or not (Yes and N
 
 - Univariate Analysis
   https://github.com/Koanim/LP2-Telco-churn-prediction/blob/main/box%20plot.JPG
-  https://github.com/Koanim/LP2-Telco-churn-prediction/blob/main/box%20plot.JPG?raw=true
-  
+
 
   
 - Bivariate Analysis
+- https://github.com/Koanim/LP2-Telco-churn-prediction/blob/main/bivariate.JPG?raw=true
 
 
 
@@ -236,10 +236,9 @@ Churn - Whether a customer will stop using the Telco's network or not (Yes and N
 
 ## Key Insights <a name="key-features"></a>
 
-- **A dataset which analyzed the Indian startup ecosystem from 2018-2021**
-- **Insights on the funding trends**
-- **Insights on Amount in circulation from 2018-2021**
-- **Sampling Techniques, Inferences, and Hypothesis tests on location and year for differences**
+- **Most non-senior Citizens are likely to churn compared to Senior citizens**
+- **Customers using mailed or Electronic checks payment methods are more likely to churn**
+- **Churning did not depend on gender**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -313,12 +312,12 @@ Here, you need to recursively install the packages in the `requirements.txt` fil
 
 ## 👥 Authors <a name="authors"></a>
 
-🕵🏽‍♀️ **Victor Anim**                                   
-🕵🏽‍♀️ **Aluko Oluwadamilola**                        [GitHub Profile](https://github.com/damzking?tab=repositories)
-🕵🏽‍♀️ **Aminu Oluwarotimi Desmond**                  [GitHub Profile](https://github.com/bamzyyyy?tab=repositories)
-🕵🏽‍♀️ **Nana Kwame Frimpong Baah**
-🕵🏽‍♀️ **Leticia Blay**
-🕵🏽‍♀️ **Richmond Tetteh**
+- 🕵🏽‍♀️ **Victor Anim**                                [GitHub Profile](https://github.com/Koanim)   
+- 🕵🏽‍♀️ **Aluko Oluwadamilola**                        [GitHub Profile](https://github.com/damzking?tab=repositories)
+- 🕵🏽‍♀️ **Aminu Oluwarotimi Desmond**                  [GitHub Profile](https://github.com/bamzyyyy?tab=repositories)
+- 🕵🏽‍♀️ **Nana Kwame Frimpong Baah**
+- 🕵🏽‍♀️ **Leticia Blay**
+- 🕵🏽‍♀️ **Richmond Tetteh**
 
 
 
@@ -351,9 +350,9 @@ If you like this project kindly show some love, give it a 🌟 **STAR** 🌟
 
 We acknowledge the following persons for their coaching and support
 
-Violette Naa Adoley Allotey
-Racheal Appiah-Kubi
-Israel Anaba Ayamga
+- Violette Naa Adoley Allotey
+- Racheal Appiah-Kubi
+- Israel Anaba Ayamga
 
 <!-- LICENSE -->
 
