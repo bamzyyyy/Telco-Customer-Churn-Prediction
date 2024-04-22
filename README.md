@@ -312,12 +312,12 @@ Here, you need to recursively install the packages in the `requirements.txt` fil
 
 ## 👥 Authors <a name="authors"></a>
 
-🕵🏽‍♀️ **Victor Anim**                                [GitHub Profile](https://github.com/Koanim)   
-🕵🏽‍♀️ **Aluko Oluwadamilola**                        [GitHub Profile](https://github.com/damzking?tab=repositories)
-🕵🏽‍♀️ **Aminu Oluwarotimi Desmond**                  [GitHub Profile](https://github.com/bamzyyyy?tab=repositories)
-🕵🏽‍♀️ **Nana Kwame Frimpong Baah**
-🕵🏽‍♀️ **Leticia Blay**
-🕵🏽‍♀️ **Richmond Tetteh**
+- 🕵🏽‍♀️ **Victor Anim**                                [GitHub Profile](https://github.com/Koanim)   
+- 🕵🏽‍♀️ **Aluko Oluwadamilola**                        [GitHub Profile](https://github.com/damzking?tab=repositories)
+- 🕵🏽‍♀️ **Aminu Oluwarotimi Desmond**                  [GitHub Profile](https://github.com/bamzyyyy?tab=repositories)
+- 🕵🏽‍♀️ **Nana Kwame Frimpong Baah**
+- 🕵🏽‍♀️ **Leticia Blay**
+- 🕵🏽‍♀️ **Richmond Tetteh**
 
 
 
