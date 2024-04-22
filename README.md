@@ -350,9 +350,9 @@ If you like this project kindly show some love, give it a 🌟 **STAR** 🌟
 
 We acknowledge the following persons for their coaching and support
 
-Violette Naa Adoley Allotey
-Racheal Appiah-Kubi
-Israel Anaba Ayamga
+- Violette Naa Adoley Allotey
+- Racheal Appiah-Kubi
+- Israel Anaba Ayamga
 
 <!-- LICENSE -->
 
