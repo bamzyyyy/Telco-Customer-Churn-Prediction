@@ -104,27 +104,27 @@ The following hypothesis will be tested
 
 
 ###Data Dictionary
-customerID - Uniquely identify each customer
-gender - whether a customer is a Male or Female
-SeniorCitizen - whether customer is >60 years or not (Yes or No)
-Partner - Whether customer have a partner or not (Yes or No)
-Dependents - Whether customer have a dependents or not (Yes or No)
-tenure - How many months customer has been on the network
-PhoneService - Whether the customer is satisfied with the phone services
-MultipleLines - Whether the customer is satisfied with the multiple lines service
-InternetService - Whether the customer is satisfied with the internet service
-OnlineSecurity - whether the customer is satisfied with the online security service
-OnlineBackup - Whether the customer is satisfied with the onlince backup service
-DeviceProtection - Whether the customer is satisfied with the device protection service
-TechSupport - Whether the customer is satisfied with the tech support service
-StreamingTV - Whether the customer is satisfied with the streaming TV service
-StreamingMovies - Whether the customer is satisfied with the streaming Movies service
-Contract - Whether the customer opted for month-to-month, one-year and two-years contract with the Telco
-PaperlessBilling - Whether the customer is satisfied with the Paperless Billing service
-PaymentMethod - Whether the customer opted for electronic, mailed check, bank transfer and credit card payment methods
-MonthlyCharges - Monthly customer charges
-TotalCharges - Yearly customer charges
-Churn - Whether a customer will stop using the Telco's network or not (Yes and No)
+- customerID - Uniquely identify each customer
+- gender - whether a customer is a Male or Female
+- SeniorCitizen - whether customer is >60 years or not (Yes or No)
+- Partner - Whether customer have a partner or not (Yes or No)
+- Dependents - Whether customer have a dependents or not (Yes or No)
+- tenure - How many months customer has been on the network
+- PhoneService - Whether the customer is satisfied with the phone services
+- MultipleLines - Whether the customer is satisfied with the multiple lines service
+- InternetService - Whether the customer is satisfied with the internet service
+- OnlineSecurity - whether the customer is satisfied with the online security service
+- OnlineBackup - Whether the customer is satisfied with the onlince backup service
+- DeviceProtection - Whether the customer is satisfied with the device protection service
+- TechSupport - Whether the customer is satisfied with the tech support service
+- StreamingTV - Whether the customer is satisfied with the streaming TV service
+- StreamingMovies - Whether the customer is satisfied with the streaming Movies service
+- Contract - Whether the customer opted for month-to-month, one-year and two-years contract with the Telco
+- PaperlessBilling - Whether the customer is satisfied with the Paperless Billing service
+- PaymentMethod - Whether the customer opted for electronic, mailed check, bank transfer and credit card payment methods
+- MonthlyCharges - Monthly customer charges
+- TotalCharges - Yearly customer charges
+- Churn - Whether a customer will stop using the Telco's network or not (Yes and No)
 
 
 
