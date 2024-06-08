@@ -4,3 +4,5 @@
 /custom_imputer.py
 /__pycache__
 /catboost_info
+/.myenv
+/.myenv/Lib
