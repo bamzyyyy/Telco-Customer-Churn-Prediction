@@ -182,13 +182,11 @@ The following hypothesis will be tested
 
 
 - Univariate Analysis
-  https://github.com/Koanim/LP2-Telco-churn-prediction/blob/main/box%20plot.JPG
-
+https://github.com/bamzyyyy/Telco-churn-prediction/blob/main/Images/box%20plot.JPG
 
   
 - Bivariate Analysis
-- https://github.com/Koanim/LP2-Telco-churn-prediction/blob/main/bivariate.JPG?raw=true
-
+https://github.com/bamzyyyy/Telco-churn-prediction/blob/main/Images/bivariate.JPG
 
 
 
